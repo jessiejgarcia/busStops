@@ -1,0 +1,1 @@
+This assignment is designed to show the path traveled and mark all of the stops when traveling between Harvard and MIT
